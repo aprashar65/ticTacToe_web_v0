@@ -24,4 +24,4 @@ Goals for Improvement:
 
 //Figure out how to implement minimax without causing the stack to run out of space
 
-//All in all if you clean up the code the strategy for attack is pretty good no bugs so far. Advantage of this strategy is it uses less resources then recursion and may provide same solution.
+//All in all if you clean up the code the strategy for attack is pretty good no bugs so far. Advantage of this strategy is it uses less resources then recursion and with the same outcome.

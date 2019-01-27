@@ -4,6 +4,8 @@ First Online Version of a Small Game Implementing a smart (AI) Computer Opponent
 
 URL: https://codepen.io/aprashar65/pen/bzpvBr
 
+
+
 Computer (AI) Design:
 
 //on first move take one of the two best optimal starting points
@@ -15,6 +17,8 @@ Computer (AI) Design:
 //if their is nothing to block check for the common human corner strategy and if so respond accordingly
 
 //else move on first open spot
+
+
 
 
 Goals for Improvement:

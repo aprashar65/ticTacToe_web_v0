@@ -6,22 +6,22 @@ URL: https://codepen.io/aprashar65/pen/bzpvBr
 
 Computer (AI) Design:
 
-//on first move take one of the two best optimal starting points
+//On first move take one of the two best optimal starting points
 
-//pioritize going for a win over defense
+//Prioritize going for a win over defense
 
-//if win not possible go for a block
+//If win not possible go for a block
 
-//if their is nothing to block check for the common human corner strategy and if so respond accordingly
+//If their is nothing to block check for the common human corner strategy and if so respond accordingly
 
-//else move on first open spot
+//Else move on first open spot
 
 Goals for Improvement:
 
-//next version should be deployed on heroku 
+//Next version should be deployed on heroku 
 
-//recursive minimax function was part of the original design structure; however, implementation did not work as expected
+//Recursive minimax function was part of the original design structure; however, implementation did not work as expected
 
-//figure out how to implement minimax without causing the stack to run out of space
+//Figure out how to implement minimax without causing the stack to run out of space
 
-//clean up code
+//All in all if you clean up the code the strategy for attack is pretty good no bugs so far. Advantage of this strategy is it uses less resources then recursion and may provide same solution.

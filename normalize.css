@@ -1,0 +1,40 @@
+table {
+    border-top-style: hidden;
+    border-bottom-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-collapse: collapse;
+    position: absolute;
+    left: 50%;
+    margin-left: -155px;
+    top: 50px;
+}
+
+td {
+    border: 2px solid #333;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Baloo Thambi', cursive;
+    font-size: 80px;
+    cursor: pointer;
+}
+
+
+.popup {
+    display: none; 
+    width: 200px;
+    top: 120px;
+    background-color: rgb(0, 0, 255);
+    opacity: 0.8;
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-size: 2em;
+}
